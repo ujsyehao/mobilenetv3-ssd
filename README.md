@@ -33,6 +33,8 @@ For extra-body, we use **1x1 conv + 3x3 dw conv + 1x1 conv** block follow mobile
 ## Head
 For head, we use **3x3 dw conv + 1x1 conv** block follow mobilenetv2-ssd-lite setting(official tensorflow version)
 
+We choose 6 feature maps to predict box coordinates and label, their dimenstions are 19x19, 10x10, 5x5, 3x3, 2x2, 1x1. their anchor numbers are 4, 6, 6, 6, 4, 4.  
+
 ## Training
 We train mobilenetv3-ssd use mmdetection framework(based on pytorch), **we use PASCAL VOC0712 trainval dataset to train, it reaches 71.7mAP on VOC2007 test dataset.**
 
