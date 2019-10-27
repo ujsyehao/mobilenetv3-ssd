@@ -21,13 +21,13 @@ We mainly train mobilenetv3-ssd detection network rather than classification net
 
 For extra-body, we use **1x1 conv + 3x3 dw conv + 1x1 conv** block follow mobilenetv2-ssd setting(official tensorflow version), details below:
 
-1x1 256 -> 3x3 256 s=2 -> 1x1 512
+1x1 256 conv -> 3x3 256 s=2 conv -> 1x1 512 conv
 
-1x1 128 -> 3x3 128 s=2 -> 1x1 256
+1x1 128 conv -> 3x3 128 s=2 conv -> 1x1 256 conv
 
-1x1 128 -> 3x3 128 s=2 -> 1x1 256
+1x1 128 conv -> 3x3 128 s=2 conv -> 1x1 256 conv
 
-1x1 64  -> 3x3 64  s=2 -> 1x1 128
+1x1 64  conv -> 3x3 64  s=2 conv -> 1x1 128 conv
 
 
 ## Head
