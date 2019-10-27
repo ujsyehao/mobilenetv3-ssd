@@ -36,6 +36,10 @@ For head, we use **3x3 dw conv + 1x1 conv** block follow mobilenetv2-ssd-lite se
 ## Training
 We train mobilenetv3-ssd use mmdetection framework(based on pytorch), **we use PASCAL VOC0712 trainval dataset to train, it reaches 71.7mAP on VOC2007 test dataset.**
 
+img test:
+
+
+
 ## Convert mobilenetv3-ssd pytorch model to ncnn framework 
 1. convert *.pth* model to onnx(not included priorbox layer, detection_output layer)
 2. use onnx-simplifier to simplify onnx model
