@@ -50,5 +50,5 @@ img test:
 ## model link
 mobilenetv3-ssd pytorch model 链接: https://pan.baidu.com/s/1N9HlCQjK2nsxf-AtOT-kKA 提取码: xnuw 
 
-mobilenetv3-ssd ncnn model 链接: https://pan.baidu.com/s/1Zhp0_6asS5SRVyKJwJ7pkQ 提取码: xtcg 
+mobilenetv3-ssd ncnn model 链接: https://pan.baidu.com/s/15esKuZPOikJE8vOSgxNq3Q 提取码: e4a8 
 
