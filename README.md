@@ -54,3 +54,4 @@ mobilenetv3-ssd pytorch model 链接: https://pan.baidu.com/s/1sTGrTHxpv4yZJUpTJ
 
 mobilenetv3-ssd ncnn model 链接: https://pan.baidu.com/s/1IWxq7IcZhDtFoi-q9Zh5EQ 提取码: 558h 
 
+mobilenetv3-ssd ncnn model google drive link https://drive.google.com/file/d/11_C_ko-arXnzM60udcXOMM5_PDNXuCcs/view?usp=sharing
