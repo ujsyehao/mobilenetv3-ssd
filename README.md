@@ -44,10 +44,13 @@ img test:
 
 
 ## Convert mobilenetv3-ssd pytorch model to ncnn framework 
-1. convert *.pth* model to onnx(not included priorbox layer, detection_output layer)
+1. convert *.pth* model to onnx(not included priorbox layer, detection_output layer) -> I provide origin pytorch model
 2. use onnx-simplifier to simplify onnx model
 3. convert simplified *.onnx* model to ncnn
-4. modify *.param* manually(add priorbox layer, detection_output layer, etc.)
+4. modify *.param* manually(add priorbox layer, detection_output layer, etc.) -> I provide converted ncnn model
+
+## How to use mobilenetv3-ssd in ncnn framework
+you can refer to https://github.com/Tencent/ncnn/blob/master/examples/mobilenetv3ssdlite.cpp
 
 ## model link
 mobilenetv3-ssd pytorch model 链接: https://pan.baidu.com/s/1sTGrTHxpv4yZJUpTJD8BNw 提取码: sid9 
