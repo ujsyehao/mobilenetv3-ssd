@@ -54,5 +54,5 @@ you can refer to https://github.com/Tencent/ncnn/blob/master/examples/mobilenetv
 
 ## model link
 mobilenetv3-ssd pytorch model 链接: https://pan.baidu.com/s/1sTGrTHxpv4yZJUpTJD8BNw 提取码: sid9 
-
+mobilenetv3-ssd ncnn model 链接: https://pan.baidu.com/s/1zBqGnp4utJGi6-IzYs7lTg 提取码: phdx
 
