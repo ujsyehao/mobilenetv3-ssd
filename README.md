@@ -53,6 +53,6 @@ img test:
 you can refer to https://github.com/Tencent/ncnn/blob/master/examples/mobilenetv3ssdlite.cpp
 
 ## model link
-mobilenetv3-ssd pytorch model 链接: https://pan.baidu.com/s/1sTGrTHxpv4yZJUpTJD8BNw 提取码: sid9 
-mobilenetv3-ssd ncnn model 链接: https://pan.baidu.com/s/1zBqGnp4utJGi6-IzYs7lTg 提取码: phdx
+mobilenetv3-ssd pytorch model 百度网盘链接: https://pan.baidu.com/s/1sTGrTHxpv4yZJUpTJD8BNw 提取码: sid9 
+mobilenetv3-ssd ncnn model 百度网盘链接: https://pan.baidu.com/s/1zBqGnp4utJGi6-IzYs7lTg 提取码: phdx  google drive link: https://drive.google.com/file/d/11_C_ko-arXnzM60udcXOMM5_PDNXuCcs/view?usp=sharing
 
